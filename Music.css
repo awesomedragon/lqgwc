@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #cdffba;
+  background: -webkit-linear-gradient(#cdffba, #9bd986); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#cdffba, #9bd986); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#cdffba, #9bd986); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#cdffba, #9bd986); /* Standard syntax */
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 13px;
+}
+
+#topbar {
+  background-color: white;
+  padding: 10px;
+  padding-left: 40px;
+  border-bottom: 7px solid #749d65;
+}
+
+#topbar #title a{
+  color: #749d65;
+  font-size: 70px;
+  font-family: 'Pacifico', cursive;
+  text-decoration: none;
+}
+
+#buttons {
+  width: 100px;
+  background-color: #749d65;
+  font-family: 'Pacifico', serif;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px;
+  float: left;
+  margin-right: 5px;
+  margin-bottom: 2%;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+
+#topbar a {
+  color: #ffffff;
+}
+
+#buttons:hover {
+  background-color: #ffffff;
+  color: #749d65;
+}
+h1{
+  text-indent: 40px;
+}
+.rsrc{
+    width: 80%; 
+    margin-left:40px;
+    background-color:  white;
+    padding: 16px;
+    color:#749d65;
+    border:3px solid #749d65;
+}
