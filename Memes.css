@@ -17,7 +17,6 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: white;
   font-size: 13px;
-  padding-bottom: 16px;
 }
 
 #topbar {
@@ -58,10 +57,9 @@ body {
   background-color: #ffffff;
   color: #749d65;
 }
-h1 {
+h1{
   text-indent: 40px;
 }
-
 img{
   margin-left: 20px;
   margin-top: 20px;
