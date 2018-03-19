@@ -59,11 +59,12 @@ body {
 }
 h1{
   text-indent: 40px;
+  color: #749d65;
 }
 img{
   margin-left: 20px;
   margin-top: 20px;
-  border-style: dotted;
+  border: 5px dotted;
 }
 .space{
   padding: 5px 5px 5px 5px;

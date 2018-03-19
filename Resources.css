@@ -57,38 +57,48 @@ body {
   background-color: #ffffff;
   color: #749d65;
 }
+
 h1{
   text-indent: 40px;
 }
+
 p{
   margin-left: 50px;
   font-size: 120%;
 }
+
 h2 {
     margin-left: 50px;
 }
+
 .lnks{
   margin-left: 50px;
   margin-bottom: 10px;
 }
+
 .end{
   margin-left: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
 }
+
 a:link{
   color:#54963c;
   font-size: 115%;
   text-decoration: none;
 }
+
 a:hover{
   color:#95af7e;
 }
+
 a:visited{
   text-decoration: none;
 }
+
 h3{
   text-indent: 50px;
 }
+
 .rsrc{
     width: 80%; 
     margin-left:40px;

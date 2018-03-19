@@ -57,26 +57,32 @@ body {
   background-color: #ffffff;
   color: #749d65;
 }
+
 h1{
   margin-left: 40px;
 }
+
 h2{
   margin-left: 50px;
 }
 h3{
   margin-left: 50px;
 }
+
 .lnks{
   margin-left: 50px;
 }
+
 a:link{
   color:#536843;
   font-size: 115%;
   text-decoration: none;
 }
+
 a:hover{
   color:#95af7e;
 }
+
 a:visited{
   text-decoration: none;
 }
